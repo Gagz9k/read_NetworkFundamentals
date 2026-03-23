@@ -6,6 +6,9 @@
 | **Switch** | Connects devices within the *same* network, sending data privately and directly to the intended recipient. | Operates at Layer 2 (Data Link). Uses MAC addresses to forward frames strictly to the correct physical port. | The rack-mounted box connecting all the database servers in a company's data center. |
 | **Hub** | An outdated device that connects computers but blindly shouts every message to everyone plugged into it. | Operates at Layer 1 (Physical). It lacks routing logic and simply repeats incoming electrical signals to all outgoing ports. | Old network splitters from the late 90s/early 2000s (now entirely obsolete). |
 
+## Network structure
+<img width="813" height="480" alt="image" src="https://github.com/user-attachments/assets/0bbeb0b9-243f-4efc-92a4-21677dcef954" />
+
 ---
 
 ### ⚙️ 2. How does it actually work?
